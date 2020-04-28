@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">SlideshowCaster</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_slideshow">Slideshows</string>
+    <string name="tab_media">Media</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_slideshow_fragment">Hello slideshow fragment</string>
+    <string name="hello_media_fragment">Hello media fragment</string>
 </resources>
